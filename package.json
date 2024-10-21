@@ -1,5 +1,5 @@
 {
-  "name": "event-booking-site",
+  "name": "Event-Booking-Site",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
@@ -18,7 +18,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://Suchetha-reddie.github.io/event-booking-site",
+  "homepage": "https://saugat50.github.io/Event-Booking-Site",
   "browserslist": {
     "production": [
       ">0.2%",
