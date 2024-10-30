@@ -3,11 +3,11 @@ import React from 'react';
 const UserProfile = () => {
     // Dummy user data
     const user = {
-        name: "John Doe",
-        age: 28,
+        name: "Saugat Chaudhary",
+        age: 22,
         gender: "Male",
         email: "johndoe@example.com",
-        address: "123 Main St, Springfield, USA",
+        address: "123 Main St, Nawalparasi, Nepal",
         profilePicture: "/image.png" // Use the image from public directory
     };
 
